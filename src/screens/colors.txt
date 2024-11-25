@@ -1,0 +1,6 @@
+Main Color: #012622
+secondary Color: #9d9c24
+third color: #689f38
+fourth color: #8ab244
+fifth color: #78909c
+sixth color: #003f39
